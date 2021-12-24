@@ -1,17 +1,17 @@
 <div align="center"
 
 
-[![KINGS-AS](https://github.com/KINGS-AS.png?size=100000)](https://github.com/KINGS-AS)
+[![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100000)](https://github.com/SPlRlT-YT)
 
-## [![RDX](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+RDX+WA+Bot+repo;Created+by+ABHIRAM+SACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![SPlRlT-BOT](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+SPlRlT-BOT+WA+Bot+repo;Created+by+ABHIRAM+SACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
   <p align="center">
-<a href="https://github.com/KINGS-AS"><img title="Author" src="https://img.shields.io/badge/Author-KINGS-AS/RDX?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-YT/SPlRlT-BOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make it public
     <br>
        | © |
         Reserved |
@@ -32,9 +32,9 @@ Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KINGS-AS&show_icons=true&theme=dark&locale=en" alt="KINGS-AS" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-YT&show_icons=true&theme=dark&locale=en" alt="SPlRlT-YT" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KINGS-AS&theme=dark" alt="KINGS-AS" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-YT&theme=dark" alt="SPlRlT-YT" /></p>
 </p>
 
 
@@ -45,7 +45,7 @@ Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPlRlT-BOT.git)
      </div>
 <br>
 <br >
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/KINGS-AS/RDX
-$ cd RDX
+$ git clone https://github.com/SPlRlT-YT/SPlRlT-BOT
+$ cd SPlRlT-BOT
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/KINGS-AS/RDX
-$ cd RDX
+$ git clone https://github.com/SPlRlT-YT/SPlRlT-BOT
+$ cd SPlRlT-BOT
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -85,16 +85,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, RDX executives do not accept responsibility.
-By establishing the RDX, you are deemed to have accepted these responsibilities.
+Absolutely, SPlRlT-BOT executives do not accept responsibility.
+By establishing the SPlRlT-BOT, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://i.imgur.com/14w3OJb.jpeg?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) 
+  [![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://i.imgur.com/14w3OJb.jpeg?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100)](https://github.com/SPlRlT-YT) 
 ----|----|----
-[Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS)
+[Abhiram Sachu](https://github.com/SPlRlT-YT) | [Abhiram Sachu](https://github.com/SPlRlT-YT) | [Abhiram Sachu](https://github.com/SPlRlT-YT)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
