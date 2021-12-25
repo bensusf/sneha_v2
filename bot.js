@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *SPlRlT BOT ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*error connect owner https://wa.me/qr/62FORLJKJZ4WP1 and massage me im coming your SPlRlT BOT bot``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*error connect owner https://wa.me/18052196558 and massage me im coming your SPlRlT BOT bot``` ' 
                                     , MessageType.text);
                             }
                         }
