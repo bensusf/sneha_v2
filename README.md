@@ -62,7 +62,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/SPlRlT-YT/SPlRlT-BOT
-$ cd SPlRlT-BOT
+$ cd SPlRlT-SER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -72,7 +72,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/SPlRlT-YT/SPlRlT-BOT
-$ cd SPlRlT-BOT
+$ cd SPlRlT-SER
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -85,8 +85,8 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, SPlRlT-BOT executives do not accept responsibility.
-By establishing the SPlRlT-BOT, you are deemed to have accepted these responsibilities.
+Absolutely, SPlRlT BOT executives do not accept responsibility.
+By establishing the SPlRlT BOT, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
