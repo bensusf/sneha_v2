@@ -1,7 +1,7 @@
 <div align="center"
 
 
-[![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100000)](https://github.com/SPlRlT-YT)
+[![SPlRlT-YT](https://i.imgur.com/aAGjt7z.jpg?size=100000)](https://github.com/SPlRlT-YT)
 
 ## [![SPlRlT-BOT](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+SPlRlT-BOT+WA+Bot+repo;Created+by+ABHIRAM+SACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
