@@ -92,9 +92,9 @@ By establishing the SPlRlT BOT, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://i.imgur.com/14w3OJb.jpeg?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100)](https://github.com/SPlRlT-YT) 
+  [![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://i.imgur.com/aAGjt7z.jpg?size=100)](https://github.com/SPlRlT-YT) | [![SPlRlT-YT](https://github.com/SPlRlT-YTpng?size=100)](https://github.com/SPlRlT-YT) 
 ----|----|----
-[Abhiram Sachu](https://github.com/SPlRlT-YT) | [Abhiram Sachu](https://github.com/SPlRlT-YT) | [Abhiram Sachu](https://github.com/SPlRlT-YT)
+[SPlRlT](https://github.com/SPlRlT-YT) | [SPlRlT](https://github.com/SPlRlT-YT) | [SPlRlT](https://github.com/SPlRlT-YT)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
