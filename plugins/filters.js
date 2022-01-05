@@ -123,8 +123,8 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '919605101516@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/help.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '919605101516@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/KING AS.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '18052196558@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/spirit.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '12567438855@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/KING AS.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
@@ -153,8 +153,8 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.AUTOSTICKER){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '919605101516@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/AS.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    if (!!message.mention && message.mention[0] == '18052196558@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/spirit.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
     if (!!message.mention && message.mention[0] == '12567438855@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/AS.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
