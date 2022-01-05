@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨SPlRlT✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 SPlRlT 𝐛𝐨𝐭.
-            *SPlRlT*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝙨𝙥𝙞𝙧𝙞𝙩 𝐛𝐨𝐭.
+            *spirit*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 ☢️𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□SPlRlT■□■□■□■□■□
+■□■□■□■□■□spirit■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -121,7 +121,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 ☢️𝙐𝙨𝙚➜  Gives you info about anime.
 ⚠️anime AS
-■□■□■□■□■AS□■□■□■□■□■□
+■□■□■□■□■spirit□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -132,10 +132,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 ☢️𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp AS
+⚠️ex  attp spirit
 ■□■□■□■□■□■□■□■□■□■□
-═════💢SPlRlT BOT💢═════
-▣▣▣▣▣▣▣▣𝐀𝐒▣▣▣▣▣▣▣▣▣▣▣
+═════💢spirit bot💢═════
+▣▣▣▣▣▣▣▣spirit▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
