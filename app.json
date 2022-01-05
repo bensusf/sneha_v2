@@ -29,7 +29,7 @@
          "BOT_NAME": {
             "description": "Enter Your Bot Name Here.",
             "required": true,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝sᴘɪʀɪᴛ sᴇʀ࿐"
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝sᴘɪʀɪᴛ ʙᴏᴛ࿐"
          },
          "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
