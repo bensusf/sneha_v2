@@ -3,11 +3,11 @@
 
 [![SPlRlT-YT](https://i.imgur.com/aAGjt7z.jpg?size=100000)](https://github.com/SPlRlT-YT)
 
-## [![SPlRlT-BOT](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+SPlRlT-BOT+WA+Bot+repo;Created+by+SPlRlT+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![SPlRlT-BOT](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+bot+WA+Bot+repo;Created+by+spirit+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
   <p align="center">
-<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-YT/SPlRlT-BOT?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-YT/spirit-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
