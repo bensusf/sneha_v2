@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ SPlRlT BOT BOT working😈!')
+            chalk.green.bold('✅ spirit BOT  working😈!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *SPlRlT BOT ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*error connect owner https://wa.me/18052196558 and massage me im coming your SPlRlT BOT bot``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *spirit bot ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*error connect owner https://wa.me/18052196558 and massage me im coming your spirit  bot``` ' 
                                     , MessageType.text);
                             }
                         }
